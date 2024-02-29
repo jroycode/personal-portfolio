@@ -18,7 +18,7 @@ const items = [
     color: "from-blue-300 to-violet-300",
     title: "Portfolio Site",
     desc: "Animated portfolio using React, Next.js, Framer Motion and Tailwind CSS.",
-    img: "/portfolio.png",
+    img: "/portfolio2.png",
     link: "https://github.com/jroycode/personal-portfolio",
   },
   {
