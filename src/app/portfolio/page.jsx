@@ -26,8 +26,8 @@ const items = [
     color: "from-violet-300 to-purple-300",
     title: "Dalle Clone App",
     desc: "Create a Dalle Clone app using Node.js, MongoDB, Tailwind CSS, React",
-    img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    link: "",
+    img: "/dalle-clone.png",
+    link: "https://github.com/jroycode/dalle_clone",
   },
 ];
 
