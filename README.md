@@ -31,7 +31,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/jroycode/personal-portfolio.git
 ```
 2. Install NPM packages
 ```sh
