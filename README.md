@@ -13,8 +13,7 @@ Technologies Used
 
     React.js: A JavaScript library for building user interfaces.
     Next.js: A React framework for production-grade applications that offers server-side rendering and generating static websites.
-    Framer Motion: A library for React that makes animation easy.
-    Other Libraries: Additional libraries and tools used in the project (e.g., styled-components for styling, Formik for form management).
+    Framer Motion: A library for React that makes animation easy. 
 
 Getting Started
 
