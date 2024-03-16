@@ -42,5 +42,3 @@ npm install
 npm run dev
 ```
 This will run the development server at `localhost:3000`, where you can view the project live in your browser.
-
-```
