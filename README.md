@@ -1,4 +1,3 @@
-```markdown
 # My Personal Portfolio
 
 Welcome to the repository of my personal portfolio website, a dynamic and interactive showcase of my professional journey, projects, and skills as a developer. This site is built with the power of React.js and Next.js, offering a seamless and efficient user experience, while Framer Motion adds that extra touch of elegance with smooth animations.
@@ -44,7 +43,4 @@ npm run dev
 ```
 This will run the development server at `localhost:3000`, where you can view the project live in your browser.
 
-Project Link: [https://github.com/<your-username>/<repository-name>](https://github.com/<your-username>/<repository-name>)
 ```
-
-This README is now ready to be copied into your GitHub repository. Make sure to update it with your information to provide a clear and comprehensive overview of your portfolio project.
