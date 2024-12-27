@@ -33,12 +33,11 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Beginning my career as an associate at Trader Joe's, I honed vital skills in problem-solving,
-            teamwork, and adaptability, laying a strong foundation for my professional development.
-            Driven by a deep-seated passion for technology, I transitioned to a coding bootcamp,
-            eager to reshape my career and life. This intensive training not only equipped me with a
-            robust set of programming skills but also instilled in me a rigorous approach to problem-solving and
-            innovation. Over the last year, I have applied these skills as a web developer, creating impactful and user-centric solutions. 
+            I began my professional journey in 2017 at Trader Joe's, where I learned the value of teamwork and customer-focused
+            service. Outside of work, my curiosity for technology led me to build my own servers for video games—a hands-on
+            experience that sparked a deeper interest in coding. This passion propelled me to enroll in a coding bootcamp,
+            which I successfully completed in 2022. Shortly after, I joined Keylogic, where I've been honing my UI/UX software
+            engineering skills ever since. Today, I combine my customer-centric mindset with my technical expertise to craft digital experiences that are both engaging and impactful. 
             </p>
             {/* BIOGRAPHY SCROLL SVG */}
             <motion.svg
@@ -97,7 +96,7 @@ const AboutPage = () => {
                 Next.js
               </div>
               <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
-                Tailwind CSS
+                Bootstrap
               </div>
               <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
                 Java
@@ -106,7 +105,7 @@ const AboutPage = () => {
                 Node.js
               </div>
               <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
-                Framer Motion
+                Angular
               </div>
               <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
                 Postman
@@ -128,6 +127,12 @@ const AboutPage = () => {
               </div>
               <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
                 Python
+              </div>
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+                RESTful APIs
+              </div>
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+                .NET Framework
               </div>
             </motion.div>
             {/* SKILL SCROLL SVG */}
@@ -180,15 +185,17 @@ const AboutPage = () => {
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Web Developer
+                    Front-End Developer
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                    I was apart of a team creating applciations for curation of records using Java, Javascript, and HTML CSS for the Department of Energy.{" "}
+                    In my role as a Frontend Developer at Keylogic, I was responsible for designing and implementing user interfaces and components for multiple government applications.
+                    These responsiblities included redeigning of record pages, stripping away older or unsecure frameworks in favor of custom built components, and working closely with clients to insure
+                    all requirements were met on time.{" "}
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    2022 - Present
+                    2022 - 2024
                   </div>
                   {/* JOB COMPANY */}
                   <div className="p-1 rounded bg-white text-sm font-semibold w-fit">

@@ -24,9 +24,9 @@ const Homepage = () => {
           </h1>
           {/* DESC */}
           <p className="md:text-xl">
-          From mastering diverse challenges at Trader Joe's to swiftly navigating
-          the complexities of a coding bootcamp, and now thriving as a web developer, my
-          journey reflects an unwavering commitment to rapid learning and a passion for excellence in front-end development
+          I'm a UI/UX Software Engineer dedicated to building engaging, intuitive digital experiences. From crafting robust
+          style systems to increasing application efficiency by up to 50%, I bridge the gap between design thinking and engineering excellence.
+          Let's create solutions that are not only innovative, but also meaningful for the people who use them.
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">

@@ -18,7 +18,7 @@ const items = [
     color: "from-blue-300 to-violet-300",
     title: "Portfolio Site",
     desc: "Animated portfolio using React, Next.js, Framer Motion and Tailwind CSS.",
-    img: "/public/portfolio2.png",
+    img: "/portfolio2.png",
     link: "https://github.com/jroycode/personal-portfolio",
   },
   {
@@ -26,7 +26,7 @@ const items = [
     color: "from-violet-300 to-purple-300",
     title: "Dalle Clone App",
     desc: "Create a Dalle Clone app using Node.js, MongoDB, Tailwind CSS, React",
-    img: "/public/dalle-clone.png",
+    img: "/dalle-clone.png",
     link: "https://github.com/jroycode/dalle_clone",
   },
 ];
